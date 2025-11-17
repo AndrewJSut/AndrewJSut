@@ -23,16 +23,16 @@ We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk fact
   - Position-size bounds  
 - Built full backtesting pipeline + performance attribution  
 
-👉 *Repo coming soon*
+ *Repo coming soon*
 
 ---
 
-### 🧮 Pricing Bermudan Options Using Simplified Quadrature  
+### Pricing Bermudan Options Using Simplified Quadrature  
 Implemented a numerical Bermudan option pricer using a simplified quadrature to efficiently approximate continuation values across early-exercise decision surfaces.
 
 **Highlights:**  
 
-👉 *Repo coming soon*
+ *Repo coming soon*
 
 ---
 
