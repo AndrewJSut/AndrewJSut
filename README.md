@@ -8,9 +8,9 @@ Montreal, Quebec
 
 ## Projects:
 
-### McGill-FIAM Asset Management Hackathon
+### McGill-FIAM Asset Management Hackathon 2025
 A quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
-We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk factors from cross-sectional fundamentals, built **regime-conditioned MLP factor-premia models**, and optimized portfolio allocation using a **hierarchical reinforcement-learning agent**.
+We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk factors from cross-sectional fundamentals, built **regime-conditioned MLP factor-premia models**, and optimized portfolio allocation using a **hierarchical reinforcement-learning structure**.
 
 **Highlights:**  
 - Extracted latent systemic risk factors using **Fourier Neural Operators (FNOs)**  
