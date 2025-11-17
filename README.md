@@ -2,7 +2,7 @@
 **MSc Financial Engineering | Quantitative Modelling & Analytics**
 
 Montreal, Quebec  
-[LinkedIn]([https://www.linkedin.com/in/andrew-j-sutcliffe/])
+[LinkedIn](https://www.linkedin.com/in/andrew-j-sutcliffe/)
 
 ---
 
