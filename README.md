@@ -6,8 +6,10 @@ Montreal, Quebec
 
 ---
 
-### Institutional Portfolio Optimization Using FNO Factors + Regime-Based Reinforcement Learning  
-A full-stack quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
+## Projects:
+
+### McGill-FIAM Asset Management Hackathon
+A quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
 We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk factors from cross-sectional fundamentals, built **regime-conditioned MLP factor-premia models**, and optimized portfolio allocation using a **hierarchical reinforcement-learning agent**.
 
 **Highlights:**  
@@ -16,7 +18,7 @@ We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk fact
   - **FinBERT sentiment scores** from corporate disclosures  
   - **Macro stress index**  
 - Derived regime-conditioned factor premia via MLPs  
-- Designed a **hierarchical RL allocator** (sector → country → global)  
+- Designed a **hierarchical RL allocator** (sector, country, global)  
 - Maximized information ratio under institutional constraints:  
   - Turnover limits  
   - Tracking error constraints  
@@ -27,10 +29,8 @@ We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk fact
 
 ---
 
-### Pricing Bermudan Options Using Simplified Quadrature  
+### Pricing Bermudan Options Using a Simplified Quadrature  
 Implemented a numerical Bermudan option pricer using a simplified quadrature to efficiently approximate continuation values across early-exercise decision surfaces.
-
-**Highlights:**  
 
  *Repo coming soon*
 
@@ -49,5 +49,4 @@ Seeking Summer 2025 internship in
 Open to: **UK, Canada, Netherlands**
 
 <!--
-**AndrewJSut/AndrewJSut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
