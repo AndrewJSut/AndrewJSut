@@ -29,6 +29,23 @@ We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk fact
 
 ---
 
+### Dynamic Portfolio Allocation in Goals-Based Wealth Management  
+Replicates and extends the model of Das, Ostrov, Radhakrishnan & Srivastav (2019).  
+Implements:
+
+- Efficient-frontier portfolio construction  
+- Log-wealth grid discretization  
+- Markov transition probabilities derived from GBM dynamics  
+- Backward induction dynamic programming  
+- In-sample and out-of-sample success probabilities  
+- Wealth-distribution and policy-map visualizations (Figures 2 & 4 from the paper)
+
+All code is modular for experimentation with grid size, range, and algorithmic variants.
+
+**Repo:** https://github.com/<AndrewJSut>/<DynamicAllocationGBWM>
+
+---
+
 ### Pricing Bermudan Options Using a Simplified Quadrature  
 Implemented a numerical Bermudan option pricer using a simplified quadrature to efficiently approximate continuation values across early-exercise decision surfaces.
 
