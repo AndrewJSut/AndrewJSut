@@ -42,7 +42,7 @@ Implements:
 
 All code is modular for experimentation with grid size, range, and algorithmic variants.
 
-**Repo:** https://github.com/<AndrewJSut>/<DynamicAllocationGBWM>
+**Repo:** [Dynamic Allocation GBWM](https://github.com/AndrewJSut/DynamicAllocationGBWM)
 
 ---
 
