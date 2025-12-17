@@ -49,7 +49,7 @@ All code is modular for experimentation with grid size, range, and algorithmic v
 ### Pricing Bermudan Options Using a Simplified Quadrature  
 Implemented a numerical Bermudan option pricer using a simplified quadrature to efficiently approximate continuation values across early-exercise decision surfaces.
 
- *Repo coming soon*
+ **Repo:** [Option Pricing with Quadrature](https://github.com/AndrewJSut/QuadratureOptionPricing)
 
 ---
 
