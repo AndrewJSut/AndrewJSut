@@ -1,5 +1,5 @@
 # Andrew Sutcliffe  
-**MSc Financial Engineering | Quantitative Modelling & Analytics**
+**MSc Financial Engineering**
 
 Montreal, Quebec  
 [LinkedIn](https://www.linkedin.com/in/andrew-j-sutcliffe/)
@@ -7,6 +7,10 @@ Montreal, Quebec
 ---
 
 ## Projects:
+
+### Spectral Methods for Option Pricing
+
+
 
 ### McGill-FIAM Asset Management Hackathon 2025
 A quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
@@ -23,9 +27,7 @@ We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk fact
   - Turnover limits  
   - Tracking error constraints  
   - Position-size bounds  
-- Built full backtesting pipeline + performance attribution  
-
- *Repo coming soon*
+- Built full backtesting pipeline + performance attribution 
 
 ---
 
