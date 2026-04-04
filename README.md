@@ -22,6 +22,8 @@ This was done (in line with the paper) under the BS model. I'll be extending thi
 
 Repo: [Neural Operator American Option Pricing](https://github.com/AndrewJSut/neural-operator-option-pricing)
 
+---
+
 ### Fourier-Cosine (COS) Method for European Option Pricing
 Implements the COS method, a Fourier-based technique for pricing European options by approximating the risk-neutral density via cosine series expansions of the characteristic function. 
 
@@ -31,6 +33,8 @@ Includes:
 - Accuracy tunable to within any tolerance
 
 Repo: [Fourier Option Pricing](https://github.com/AndrewJSut/fourier-option-pricing)
+
+---
 
 ### McGill-FIAM Asset Management Hackathon 2025
 A quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
