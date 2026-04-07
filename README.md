@@ -18,7 +18,7 @@ Includes:
 - Speed comparison (showing speed ups of 27x & 43x vs pred-corr)
 - Training Log showing other architecture tweaks and model iterations
 
-This was done (in line with the paper) under the BS model. I'll be extending this to Heston soon where the early exercise boundary becomes a 2D surface, thus requiring 2D Neural Operators!
+This was done (in line with the paper) under the BS model. I'll be extending this to Heston soon where the early exercise boundary becomes a 2D surface, thus requiring 2D Neural Operators...
 
 Repo: [Neural Operator American Option Pricing](https://github.com/AndrewJSut/neural-operator-option-pricing)
 
