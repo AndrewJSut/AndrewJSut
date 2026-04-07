@@ -2,6 +2,7 @@
 **MSc Financial Engineering**
 
 Montreal, Quebec & Amsterdam, the Netherlands
+
 [LinkedIn](https://www.linkedin.com/in/andrew-j-sutcliffe/)
 
 ---
