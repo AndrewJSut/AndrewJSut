@@ -41,18 +41,7 @@ Repo: [Fourier Option Pricing](https://github.com/AndrewJSut/fourier-option-pric
 A quantitative research pipeline that develops an institutional-grade multi-asset allocation system.  
 We used a **Fourier Neural Operator (FNO)** to extract latent systemic risk factors from cross-sectional fundamentals, built **regime-conditioned MLP factor-premia models**, and optimized portfolio allocation using a **hierarchical reinforcement-learning structure**.
 
-**Highlights:**  
-- Extracted latent systemic risk factors using **Fourier Neural Operators (FNOs)**  
-- Modelled market regimes using:  
-  - **FinBERT sentiment scores** from corporate disclosures  
-  - **Macro stress index**  
-- Derived regime-conditioned factor premia via MLPs  
-- Designed a **hierarchical RL allocator** (sector, country, global)  
-- Maximized information ratio under institutional constraints:  
-  - Turnover limits  
-  - Tracking error constraints  
-  - Position-size bounds  
-- Built full backtesting pipeline + performance attribution 
+Repo private, available upon request (associated cost: me rambling about the event for min. 1 hour)
 
 ---
 
