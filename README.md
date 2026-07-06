@@ -1,7 +1,7 @@
 # Andrew Sutcliffe  
 **MSc Financial Engineering**
 
-Montreal, Quebec & Amsterdam, the Netherlands
+Montreal & Amsterdam
 
 [LinkedIn](https://www.linkedin.com/in/andrew-j-sutcliffe/)
 
